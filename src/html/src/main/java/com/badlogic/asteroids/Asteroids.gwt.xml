@@ -1,4 +1,4 @@
-<module rename-to='test'>
+<module rename-to='Asteroids'>
 	<inherits name='com.badlogic.gdx.backends.gdx_backends_gwt' />
 
 	<source path='core'/>

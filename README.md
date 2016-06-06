@@ -21,13 +21,13 @@ git clone https://github.com/humbertodias/games-with-libgdx.git
 Inside the folder
 
 ```
-cd games-with-libgdx
+cd games-with-libgdx/src
 ```
 
 Package
 
 ```
-mvn -P desktop package
+mvn -P desktop,html package
 ```
 
 Run
