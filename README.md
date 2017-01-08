@@ -27,7 +27,7 @@ cd games-with-libgdx/src
 Package
 
 ```
-mvn -P desktop,html package
+mvn -P desktop package
 ```
 
 Run
